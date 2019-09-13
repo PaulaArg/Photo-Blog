@@ -7,5 +7,9 @@ img {
 p{
     font-family: 'Lobster', cursive;
     margin-left: 1.66;
-    font-size: 150px;
+    font-size: 75px;
+}
+
+body {
+    background-color: #ffb3ff;
 }
